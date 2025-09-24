@@ -6,7 +6,7 @@ I enjoy building tools that simplify complex problems — especially in **financ
 ---
 
 ## Featured Project: TaxDrag.ca  
-Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to help investors understand tax drag in ETF portfolios.  
+Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to help investors thousands by understanding the ecct of tax drags on their portfolio!.  
 
 - 🔧 **Tech stack**: PHP, MySQL, JavaScript, Chart.js, UUID, MVC  
 - 📊 **Features**:  
