@@ -34,7 +34,7 @@ The project blends computation and art — transforming static BMP images into d
 
 🔗 [View on GitHub](https://github.com/Abu-Sharif/conways-game-of-life-image-patterns)
 
-![Calculator](assets/Compare.png)  
+![Calculator](assets/morrocan_50gen.png)  
 ---
 
 ## 🌱 Currently Learning  
