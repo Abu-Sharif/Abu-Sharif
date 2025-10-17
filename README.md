@@ -32,7 +32,7 @@ Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to h
 Creative exploration of **cellular automata**, where each pixel in an image evolves over time following **Conway’s Game of Life** rules.  
 The project blends computation and art — transforming static BMP images into dynamic, color-evolving patterns through algorithmic simulation, built with Pyhon & Pygame.  
 
-🔗 [View on GitHub](README.md)
+🔗 [View on GitHub](https://github.com/Abu-Sharif/conways-game-of-life-image-patterns)
 
 ![Conway’s Game of Life Example](conways-game-of-life/assets/screenshots/morrocan_50gen.png)
 ---
