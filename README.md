@@ -27,7 +27,7 @@ Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to h
 ![Calculator](assets/Compare.png)  
 
 ---
-## Project: Conway’s Game of Life – Image-Based Cellular Automata Art  
+## Conway’s Game of Life – Image-Based Cellular Automata Art  
 
 Creative exploration of **cellular automata**, where each pixel in an image evolves over time following **Conway’s Game of Life** rules.  
 The project blends computation and art — transforming static BMP images into dynamic, color-evolving patterns through algorithmic simulation, built with Pyhon & Pygame.  
