@@ -4,18 +4,8 @@ I’m a Computer Science student at Thompson Rivers University with experience i
 I enjoy building tools that simplify complex problems — especially in **finance and investing technology**.  
 
 ---
-
 ## Featured Project: TaxDrag.ca  
-Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to help investors thousands by understanding the ecct of tax drags on their portfolio!.  
-
-## 🛠️ Tech & Tools  
-- **Languages**: Java, Python, JavaScript, SQL, PHP, R, MATLAB  
-- **Web Development**: HTML5, CSS3, jQuery, Chart.js, WordPress  
-- **Cloud & Tools**: AWS (EC2), Git, Node.js  
-- 📊 **Features**:  
-  - Portfolio Builder (custom user + anonymous portfolios)  
-  - Tax drag comparison across account types (RRSP, TFSA, Non-Registered)  
-  - Prebuilt portfolios (e.g., PWL Capital’s Model Portfolio)  
+Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to help investors **thousands** by understanding the effects of this sneaky tax on their portfolio! By allowing users to calculate and compare Foreign Withholding Taxes across several popular portfolios, it allows DIY investors to make an more educated financial decision.
 
 👉 [Visit TaxDrag.ca](https://taxdrag.ca)  
 
@@ -26,13 +16,16 @@ Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to h
 #### Compare Portfolios  
 ![Calculator](assets/Compare.png)  
 
+## 🛠️ Tech & Tools  
+- **Languages**: Java, Python, JavaScript, SQL, PHP,
+- **Web Development**: HTML5, CSS3, jQuery, Chart.js
 ---
 ## Conway’s Game of Life – Image-Based Cellular Automata Art  
 
 Creative exploration of **cellular automata**, where each pixel in an image evolves over time following **Conway’s Game of Life** rules.  
 The project blends computation and art — transforming static BMP images into dynamic, color-evolving patterns through algorithmic simulation, built with Pyhon & Pygame.  
 
-🔗 [View on GitHub](https://github.com/Abu-Sharif/conways-game-of-life-image-patterns)
+👉 [Visit on GitHub](https://github.com/Abu-Sharif/conways-game-of-life-image-patterns)
 
 ![Calculator](assets/morrocan_50gen.png)  
 ---
