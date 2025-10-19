@@ -3,6 +3,10 @@
 I’m a Computer Science student at Thompson Rivers University with experience in **full-stack web development, cloud computing, and data-driven applications**.  
 I enjoy building tools that simplify complex problems — especially in **finance and investing technology**.  
 
+💻 Languages: PHP, JavaScript, Python, Java, SQL, HTML5, CSS3
+
+⚙️ Frameworks & Tools: Node.js, Spring Boot, AWS, Chart.js, jQuery
+
 ---
 ## Featured Project: TaxDrag.ca  
 Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to help investors **thousands** by understanding the effects of this sneaky tax on their portfolio! By allowing users to calculate and compare Foreign Withholding Taxes across several popular portfolios, it allows DIY investors to make an more educated financial decision.
@@ -16,8 +20,8 @@ Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to h
 ![Calculator](assets/Compare.png)  
 
 ## 🛠️ Tech & Tools  
-- **Languages**: JavaScript, SQL, PHP
-- **Web Development**: HTML5, CSS3, jQuery, Chart.js
+- **Languages**: JavaScript, SQL
+- **Web Development**: HTML5, CSS3, jQuery, Chart.js, MVC Architecture 
 ---
 ## Conway’s Game of Life – Image-Based Cellular Automata Art  
 
@@ -31,4 +35,4 @@ The project blends computation and art — transforming static BMP images into d
 
 ## 🌱 Currently Learning  
 - Spring Boot for backend APIs  
-- Scikit Learn & cloud deployments  
+- Scikit Learn for machine learning predications & cloud deployments  
