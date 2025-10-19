@@ -9,8 +9,7 @@ Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to h
 
 👉 [Visit TaxDrag.ca](https://taxdrag.ca)  
 
-### Screenshots  
-#### Homepage Calculation  
+#### Calcualtor 
 ![Calculator](assets/HomePage.png)  
 
 #### Compare Portfolios  
