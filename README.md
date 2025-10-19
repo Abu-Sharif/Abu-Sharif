@@ -17,7 +17,7 @@ Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to h
 ![Calculator](assets/Compare.png)  
 
 ## 🛠️ Tech & Tools  
-- **Languages**: Java, Python, JavaScript, SQL, PHP,
+- **Languages**: JavaScript, SQL, PHP
 - **Web Development**: HTML5, CSS3, jQuery, Chart.js
 ---
 ## Conway’s Game of Life – Image-Based Cellular Automata Art  
