@@ -26,7 +26,7 @@ Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to h
 ## Conway’s Game of Life – Image-Based Cellular Automata Art  
 
 Creative exploration of **cellular automata**, where each pixel in an image evolves over time following **Conway’s Game of Life** rules.  
-The project blends computation and art — transforming static BMP images into dynamic, color-evolving patterns through algorithmic simulation, built with Pyhon & Pygame.  
+The project blends computation and art — transforming static BMP images into dynamic, color-evolving patterns through cellular automata algorithm, built with Pyhon & Pygame.  
 
 👉 [Visit on GitHub](https://github.com/Abu-Sharif/conways-game-of-life-image-patterns)
 
