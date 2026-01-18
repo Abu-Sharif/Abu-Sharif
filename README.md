@@ -1,7 +1,7 @@
 # Hi, I'm Abu
 
 I’m a Computer Science student at Thompson Rivers University with experience in **full-stack web development, cloud computing, and data-driven applications**.  
-I enjoy building tools that simplify complex problems — especially in **finance and investing technology**.  
+I enjoy building tools that simplify complex problems — especially for **finance and and property management **.  
 
 Languages: PHP, JavaScript, Python, Java, SQL, HTML5, CSS3
 
@@ -13,7 +13,7 @@ Canada’s first all-in-one **Foreign Withholding Tax Calculator** designed to h
 
 [Visit TaxDrag.ca](https://taxdrag.ca)  
 
-#### Calcualtor 
+#### Calculator 
 ![Calculator](assets/HomePage.png)  
 
 #### Compare Portfolios  
